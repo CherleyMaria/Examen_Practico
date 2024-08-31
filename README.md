@@ -3,8 +3,8 @@
 Una aplicación web para optimizar la gestión de proyectos, tareas y empleados en una empresa. Desarrollada con React, TypeScript y PrimeReact, esta aplicación permite a los usuarios administrar tareas asignadas a diferentes proyectos, vinculando cada tarea con empleados específicos. La funcionalidad central es la gestión de tareas, permitiendo realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 
 ## Integrantes:
-Cherley Maria Caiza Chasipanta
-Edison Henry Carvajal Pabón
+- **Cherley Maria Caiza Chasipanta
+- **Edison Henry Carvajal Pabón
 
 ## Características
 
@@ -26,8 +26,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/tu-usuario/gestion-proyectos-tareas.git
-    cd gestion-proyectos-tareas
+    https://github.com/CherleyMaria/Examen_Practico.git
     ```
 
 2. **Instala las dependencias**:
